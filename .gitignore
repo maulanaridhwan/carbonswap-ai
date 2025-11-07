@@ -1,0 +1,4 @@
+node_modules
+.env
+testGemini.ts
+seed-database.ts
